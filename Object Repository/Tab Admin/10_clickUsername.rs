@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>04_chooseUserrole</name>
+   <name>10_clickUsername</name>
    <tag></tag>
-   <elementGuidId>11a015a3-4e22-47db-80f2-0a8803f03c2d</elementGuidId>
+   <elementGuidId>eed8d6aa-64e0-4208-a2dc-c369f75b5066</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@role='listbox']//span[./text()='${UserRole}']</value>
+         <value>//label[./text()='Username']/../../div[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>
